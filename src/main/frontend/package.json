@@ -131,7 +131,6 @@
       "jest-watch-typeahead/testname"
     ]
   },
-  "proxy": "http//localhost:8080",
   "babel": {
     "presets": [
       "react-app"
